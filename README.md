@@ -15,3 +15,10 @@ Landing page moderna para una peluquería en Miami, lista para publicar en GitHu
 - Cambia el número de WhatsApp en `index.html` y `script.js`.
 - Cambia textos, horarios o ubicación en `index.html`.
 - Cambia colores en `styles.css`, dentro de `:root`.
+
+
+## Actualizaciones incluidas
+- Galería con vista ampliada al hacer clic.
+- Sección de opiniones de clientes con calificaciones.
+- Identidad visual morada/violeta.
+- WhatsApp actualizado a +1 (786) 888-5457.
